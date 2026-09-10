@@ -15,15 +15,14 @@ heading: Realistic scale solar system, with simulated physics and proc gen event
 Every readout is backed by something actually running. The numbers are not set dressing.
 
 ## CREW | Lone pilot
-You are a M.O.R.S.S. pilot. Crew is just you, the pilot, and your ship AI. You can go into hypersleep, while your ship auto-pilot handles some aspects, others you need to be awake. Real physiological simulation like life support, atmosphere and G's effects as aging.
+You are a M.O.R.S.S. pilot. You can go into hypersleep for long travels, but you need to be awake to unravel what happened to the solar system, to handle docking procedures and manage real emergencies. Real physiological simulation, like life support, pilot aging, atmosphere and G-force effects.
 
 ## PWR | Realistic power grid system
 Two buses, five sources, one tie. Load shedding runs on priority, so the engine goes
-dark before life support does.
+dark before life support does. Manage a realistic power grid to sustain the systems that really matters at each decisive moment.
 
 ## NAV | Kepler physics
-Four nodes, one prediction line, no solved burns. Lose avionics and you lose the
-prediction, never the ability to burn blindly. You need to explore and fly to known locations in order to obtain navigation data, otherwise you fly blind directly to the void.
+Lose avionics and you lose the prediction, never the ability to burn blindly. You need to explore and fly to known locations in order to obtain navigation data, otherwise you fly blind directly to the void.
 
 ## DOCK | Stations
 Range, closure, offset, angle, rate, roll: seven gates, all inside tolerance, held.
@@ -33,13 +32,14 @@ Docking a spinning collar means co-rotating with it. Go too fast and you may los
 No arcade physics or unrealistic flight mechanics. You can fly outside the ship envelope but it will fatigue and may snap due to over g forces, as the pilot. Realistic physiological effects as G-LOC, A-LOC, greyout redout, etc.
 
 ## PLANETS | Entry burns what it touches
+Your ship was not designed to atmosphere re-entry.
 Heat flux goes as velocity cubed. Come in fast and the airflow strips modules off the
-leading face. There is an altitude past which you cannot pull up. Your ship was not designed to atmosphere re-entry.
+leading face. There is an altitude past which you cannot pull up.
 
 ## ARCHIVE | A history that was simulated
 155 years of backstory generated per seed, rendered into the logs you pull out of dead
-stations' mainframes. Also, a multi layered proc gen system that will pace the solar system throughout 300 years.
+stations mainframes. Also, a multi layered proc gen system that will pace the solar system throughout 300 years.
 
 ## SOI | Thirty-two bodies, real distances
-Solar system with realistic scale, laid out under one gravity law. The distances are not a
+Find your way home through a Solar system with realistic scale, laid out under one gravity law. The distances are not a
 backdrop, they are part of the problem.

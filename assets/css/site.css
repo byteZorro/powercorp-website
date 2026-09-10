@@ -243,14 +243,14 @@ p:last-child { margin-bottom: 0; }
   align-items: center;
   gap: 28px;
 }
-.site-nav a {
+.site-nav a:not(.btn) {
   font-family: var(--font-chrome);
   font-size: 13px;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--text);
 }
-.site-nav a:hover { color: var(--accent); }
+.site-nav a:not(.btn):hover { color: var(--accent); }
 
 /* --- 7. Buttons --------------------------------------------------------- */
 

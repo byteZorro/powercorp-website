@@ -14,7 +14,7 @@
 
 stamp:          MET 09.12.2188 · 04:17:33 UTC · PROTOCOL SILENCE
 headline:       You slept through the end of the world.
-headline_accent: Now get the ship home.
+headline_accent: Now find your way home.
 cta_primary:    Wishlist on Steam
 cta_secondary:  Join the Discord
 meta:           IN DEVELOPMENT · WINDOWS · DEMO SOON

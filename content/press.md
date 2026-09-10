@@ -15,7 +15,7 @@ a build key, a specific capture, an interview — just email.
 eyebrow: 01 · Fact sheet
 
 - Title | PowerCorp
-- Developer | Joao Teixeira — solo developer, Bytezorro Games
+- Developer | Joao Teixeira - solo developer, Bytezorro Games
 - Publisher | Self-published
 - Based in | Portugal
 - Release date | 2027
@@ -23,7 +23,6 @@ eyebrow: 01 · Fact sheet
 - Engine | Godot 4.7 · Forward+ · Jolt physics
 - Steam | [store.steampowered.com/app/4383480](https://store.steampowered.com/app/4383480/PowerCorp/)
 - Discord | [discord.gg/9JVfbMk986](https://discord.gg/9JVfbMk986)
-- Press contact | Please ask in Discord
 
 ## DESCRIPTIONS
 eyebrow: 02 · Descriptions
@@ -62,7 +61,7 @@ PowerCorp is built in the Godot engine. The project represents roughly six years
 * Discord: https://discord.gg/9JVfbMk986
 * itch.io: https://bytezorro.itch.io/powercorp
 
-Press contact: bytezorro.blog [at] gmail.com
+Press contact: bytezorro.blog at gmail.com
 
 ## ASSETS
 eyebrow: 03 · Assets
@@ -71,12 +70,3 @@ button: Screenshots on Steam
 
 A downloadable pack of full-resolution screenshots, key art and logos is being assembled.
 Until it lands, the images on the Steam page are cleared for press use.
-
-## ABOUT
-eyebrow: 04 · About the developer
-heading: One person, six years.
-pullquote: "A deep love for science fiction, space ships, and the cold, unforgiving vastness of space."
-attribution: JOAO TEIXEIRA
-
-PowerCorp is built by a single person. Six years of work, three of them spent failing and
-learning through four restarts before the current version began.
